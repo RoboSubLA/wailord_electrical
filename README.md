@@ -1,4 +1,4 @@
-# RoboSubLA Seaking Controls
+# RoboSubLA Seaking Electrical
 
 ## Team Leads
 Katherine Bonomo & Andrew Ye
