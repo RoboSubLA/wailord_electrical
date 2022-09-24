@@ -1,4 +1,4 @@
-# RoboSubLA Seaking Electrical
+# RoboSubLA Wailord Electrical
 
 ## Team Leads
 Katherine Bonomo & Andrew Ye
