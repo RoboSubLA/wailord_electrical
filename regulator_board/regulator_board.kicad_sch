@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Regulator Board")
+    (date "2023-01-11")
+    (rev "dev1")
+    (company "AUVCalStateLA")
+  )
+
   (lib_symbols
     (symbol "AUVCSLA_SymbLib:AP63300WU" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -7.62 6.35 0)
