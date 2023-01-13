@@ -27,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# What is this thing??
+\#auto_saved_files#
