@@ -29,4 +29,9 @@
     (chamfer_ratio 0) (chamfer top_right bottom_right) (tstamp f464a58b-4bb6-4385-ac9a-6da622f102f4))
   (pad "2" smd roundrect (at 2.925 0) (size 2.15 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (chamfer_ratio 0) (chamfer top_left bottom_left) (tstamp 67f8b8ee-1843-4912-8d33-602bd2b0ab99))
+  (model "C:/Users/jdoos/Documents/RoboSubLA/2022-2023 Repos/wailord_electrical/kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
