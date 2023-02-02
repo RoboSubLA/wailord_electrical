@@ -1403,7 +1403,7 @@
     (pad "2" smd roundrect (at 2.925 0) (size 2.15 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (chamfer_ratio 0) (chamfer top_left bottom_left)
       (net 13 "/5V_2") (pinfunction "2") (pintype "passive") (tstamp 1ca92f59-0ef5-45a4-bb08-6a875dd2df59))
-    (model "C:/Users/jdoos/Documents/RoboSubLA/2022-2023 Repos/wailord_electrical/kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
+    (model "${KIPRJMOD}/../kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2000,7 +2000,7 @@
     (pad "2" smd roundrect (at 2.925 0) (size 2.15 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (chamfer_ratio 0) (chamfer top_left bottom_left)
       (net 5 "/5V_1") (pinfunction "2") (pintype "passive") (tstamp 2f57165b-1899-4b24-884b-70ebe5501285))
-    (model "C:/Users/jdoos/Documents/RoboSubLA/2022-2023 Repos/wailord_electrical/kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
+    (model "${KIPRJMOD}/../kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2148,7 +2148,7 @@
     (pad "2" smd roundrect (at 2.925 0) (size 2.15 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (chamfer_ratio 0) (chamfer top_left bottom_left)
       (net 17 "/9V_1") (pinfunction "2") (pintype "passive") (tstamp 04f71cc0-cfee-49ca-9d97-2a473e1219c1))
-    (model "C:/Users/jdoos/Documents/RoboSubLA/2022-2023 Repos/wailord_electrical/kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
+    (model "${KIPRJMOD}/../kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3402,7 +3402,7 @@
     (pad "2" smd roundrect (at 2.925 0) (size 2.15 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (chamfer_ratio 0) (chamfer top_left bottom_left)
       (net 9 "/5V_3") (pinfunction "2") (pintype "passive") (tstamp 35807213-451b-49f1-b0ab-3c18a1bb0b87))
-    (model "C:/Users/jdoos/Documents/RoboSubLA/2022-2023 Repos/wailord_electrical/kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
+    (model "${KIPRJMOD}/../kicad_parts/AUVCSLA_Models/IND_SRP6030VA_BRN.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
